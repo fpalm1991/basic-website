@@ -2,7 +2,7 @@
 
 <main class="h-container mb-4">
 
-    <section class="mb-2">
+    <section class="mb-2 text-container">
 
         <h2>Lorem ipsum dolor</h2>
 
@@ -30,8 +30,6 @@
     </section>
 
     <section>
-        <h2>Lorem ipsum dolor sit</h2>
-
         <div class="teaser">
 
             <?php for ($i=0; $i < 4; $i++) : ?>
